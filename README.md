@@ -1,5 +1,7 @@
 # Online Polling - sem4 Project
+
 <br>
+
 I have created a web-based polling application using Python and the Django framework. <br>
 This project allows users to vote on various topics or questions.
 The application is hosted on my local server and utilizes HTML templates found on the internet to create a user-friendly interface. Additionally, it employs an SQLite database to store polling data.
