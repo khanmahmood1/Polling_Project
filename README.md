@@ -10,7 +10,7 @@ Key Components:
 
 1.Django Framework:
 
--The Django framework is the backbone of this project, providing tools and libraries for web development.
+-The Django framework is the backbone of this project, providing tools and libraries for web development.<br>
 -It manages URL routing, user authentication, and the overall structure of the web application.
 
 2.Polling Functionality:
