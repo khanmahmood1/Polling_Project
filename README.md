@@ -6,7 +6,7 @@ I have created a web-based polling application using Python and the Django frame
 This project allows users to vote on various topics or questions.
 The application is hosted on my local server and utilizes HTML templates found on the internet to create a user-friendly interface. Additionally, it employs an SQLite database to store polling data.
 
-Key Components:
+### Key Components:
 
 1.Django Framework:
 
@@ -31,5 +31,5 @@ Key Components:
 
 5.Local Server Hosting:
 
--The web application is hosted on my local server, allowing me to test and develop it in a controlled environment br>
+-The web application is hosted on my local server, allowing me to test and develop it in a controlled environment <br>
 -This setup is ideal for debugging and fine-tuning the application.
