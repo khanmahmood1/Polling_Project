@@ -1,4 +1,4 @@
-# Online Polling - sem4 Project
+# Online Polling - 
 
 <br>
 
